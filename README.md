@@ -1,1 +1,1 @@
-sit-starter-pack-27-git-tutorial
+# SIT STARTER PACK #27
